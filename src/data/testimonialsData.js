@@ -1,0 +1,38 @@
+export const testimonialsData = [
+  {
+    id: 1,
+    name: "Ayesha M.",
+    treatment: "Root Canal & Ceramic Crown",
+    rating: 5,
+    date: "Verified Patient Note",
+    review: "I had been postponing my root canal for months due to extreme dental anxiety. The team at Fakiha Dental explained every step, applied gentle numbing, and the treatment was completely stress-free.",
+    highlight: "Completely stress-free treatment",
+  },
+  {
+    id: 2,
+    name: "Bilal K.",
+    treatment: "Ultrasonic Scaling & Whitening",
+    rating: 5,
+    date: "Verified Patient Note",
+    review: "Very professional hygiene and sterilization protocols. You can see the sterilized instruments unpacked right in front of you. My teeth feel thoroughly refreshed.",
+    highlight: "Immaculate sterilization & care",
+  },
+  {
+    id: 3,
+    name: "Sana R.",
+    treatment: "Clear Aligners Consultation",
+    rating: 5,
+    date: "Verified Patient Note",
+    review: "Direct WhatsApp communication made scheduling and following up so convenient. The doctor gave realistic timelines without pushing unnecessary procedures.",
+    highlight: "Honest advice with clear timelines",
+  },
+  {
+    id: 4,
+    name: "Hamza T.",
+    treatment: "Composite Bonding Restoration",
+    rating: 5,
+    date: "Verified Patient Note",
+    review: "Fixed a chipped front tooth seamlessly. The shade match is indistinguishable from my natural enamel. Extremely pleased with the cosmetic precision.",
+    highlight: "Seamless cosmetic shade match",
+  },
+];
